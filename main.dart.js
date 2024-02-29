@@ -77291,7 +77291,7 @@ l=o.a.a
 k=l.length
 if(k<7||k>7)A.air(A.aiq(B.l,A.a([B.mq,B.d3,B.bCM,B.d3],t.p)),q.b)
 else{k=l[1]
-if(!(k==="3"&&f.r!=="Level1 1"))if(!(k==="2"&&f.r!=="Level 2"))if(!(k==="1"&&f.r!=="Level 3"))k=k==="0"&&f.r!=="Level 4"
+if(!(k==="3"&&f.r!=="Level 1"))if(!(k==="2"&&f.r!=="Level 2"))if(!(k==="1"&&f.r!=="Level 3"))k=k==="0"&&f.r!=="Level 4"
 else k=!0
 else k=!0
 else k=!0
